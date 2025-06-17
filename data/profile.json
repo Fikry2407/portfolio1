@@ -32,5 +32,5 @@
         {"name": "Web Programming", "icon": "fab fa-js", "level": 85},
 	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
 	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 90},
-    ]
+	    }
 }
